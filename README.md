@@ -18,7 +18,12 @@ Predict whether a student will succeed based on academic features.
 - Some misclassifications occur on borderline cases
 
 ## 📊 Visualizations
-(Add screenshots here)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Correlation Heatmap
+![Heatmap](heatmap.png)
 
 ## 🚀 Conclusion
 Machine learning can help identify at-risk students early.
