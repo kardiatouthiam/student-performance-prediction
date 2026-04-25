@@ -13,7 +13,7 @@ Predict whether a student will succeed based on academic features.
 - Random Forest Classifier
 
 ## 📈 Results
-- Accuracy: 85%
+- Accuracy: 98%
 - The model correctly predicts most student outcomes
 - Some misclassifications occur on borderline cases
 
