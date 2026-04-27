@@ -25,11 +25,12 @@ Predict whether a student will succeed based on academic features.
 ### Correlation Heatmap
 ![Heatmap](heatmap.png)
 
-### Interpretation
+## 🧠 Interpretation
 
-The model performs well overall, with good prediction accuracy.
-However, some misclassifications are observed, especially for borderline cases.
-This suggests that additional features could improve performance.
+- The model correctly predicts most student outcomes
+- Some errors occur for students with average performance
+- Study hours and attendance are the most influential factors
+- The model can help identify students at risk of failure
 
 ## 🚀 Conclusion
 Machine learning can help identify at-risk students early.
