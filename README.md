@@ -22,6 +22,9 @@ Predict whether a student will succeed based on academic features.
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
+The confusion matrix shows that the model correctly classifies most students.
+Some misclassifications occur, especially for borderline cases.
+
 ### Correlation Heatmap
 ![Heatmap](heatmap.png)
 
