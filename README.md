@@ -26,7 +26,7 @@ The confusion matrix shows that the model correctly classifies most students.
 Some misclassifications occur, especially for borderline cases.
 
 ### Correlation Heatmap
-![Heatmap](heatmap.png)
+![Heatmap](Heatmap.png)
 
 ## 🧠 Interpretation
 
